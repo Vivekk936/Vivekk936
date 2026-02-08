@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 VIVEK SINGH CHAUHAN:
 I'm currently a student <br>Doing Btech in Doon University <br>Developing my skills in Competitive Programming <br>
 
 
