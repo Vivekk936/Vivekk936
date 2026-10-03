@@ -59,28 +59,5 @@ alt="Vivek's GitHub contribution graph" />
 <img src="https://img.shields.io/badge/LinkedIn-Vivek%20Chauhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 </p>
-## 📊 GitHub Contribution Statistics
-
-<p align="center">
-  <img src="contrib-heatmap.svg" alt="GitHub Contribution Heatmap" width="900">
-</p>
-
-### 🔥 Contribution Stats
-
-| 📈 Statistic           |                  🔢 Value |
-| ---------------------- | ------------------------: |
-| 🔥 Current Streak      | **Automatically updated** |
-| 🏆 Longest Streak      | **Automatically updated** |
-| 💻 Total Contributions | **Automatically updated** |
-
-> These statistics are generated from my GitHub contribution activity and updated automatically using GitHub Actions.
-
-### ⚡ Activity Overview
-
-* 🔥 **Current Streak:** Updated automatically
-* 🏆 **Longest Streak:** Updated automatically
-* 📊 **Total Contributions:** Updated automatically
-* 🗓️ **Contribution Heatmap:** Updated automatically
-
 
 </div>
