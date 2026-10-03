@@ -17,11 +17,11 @@ from datetime import datetime, timedelta
 HERE = os.path.dirname(os.path.abspath(__file__))
 
 DATA_PATH = os.path.join(
-    HERE, "..", "data", "contributions.json"
+    HERE, "data", "contributions.json"
 )
 
 OUT_PATH = os.path.join(
-    HERE, "..", "contrib-heatmap.svg"
+    HERE, "contrib-heatmap.svg"
 )
 
 # GitHub-style contribution colors
